@@ -238,3 +238,4 @@ declare namespace Browser {
 
 // eslint-disable-next-line export-just-namespace
 export = Browser;
+export default Browser
